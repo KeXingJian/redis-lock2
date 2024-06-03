@@ -2,7 +2,7 @@ spring:
   redis:
     host: 192.168.92.132
     port: 6379
-    password: 2787901285q
+    password: 123456
     database: 0
     timeout: 5000
     jedis:
